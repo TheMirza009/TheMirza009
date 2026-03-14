@@ -62,7 +62,7 @@
 
 * **Architecture**: `Clean Architecture`, `MVVM`, `SOLID Principles`, `Multi-tenant Systems (Flavors)`.
 * **State Management**: Expert in **`Riverpod`**, **`Bloc`**, **`GetX`**, and **`Provider`**.
-* **Database**: `Isar`, `Hive`, `SQLite`, and `RESTful API` Integration.
+* **Backend**: `Isar`, `Hive`, `Node.js`, `PostgreSQL` and `RESTful API` Integration.
 * **DevOps & Tools**: `Git`, `GitHub Actions`, `Play Console` Deployment, `Flutter DevOps`.
 * **Design Tools**: `Figma`, `Adobe Creative Suite`, `Blender (3D)`, `Premiere Pro`.
 
