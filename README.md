@@ -77,7 +77,13 @@
 - **Highlights:** 100+ users · ⭐ 4.9 rating · 60fps animations · Isar local persistence  
 - [![Play Store](https://img.shields.io/badge/Download-Google%20Play-brightgreen?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.azdhaar.notesapp)
 
-#### 🕐 [TeamClock — Time Zone Manager](https://github.com/TheMirza009/teamclock)
+#### 🦅 [IqbalAPI — Urdu Poetry REST API](https://iqbal-api-docs.up.railway.app)
+> The REST API that Allama Iqbal's poetry deserved — free, open-source, and built by a Flutter developer stepping deliberately into full-stack territory.
+- **Tech:** Node.js · Express · PostgreSQL · Railway · Docusaurus  
+- **Highlights:** 4 books · Bilingual search · Interactive playground · Indexed on Google  
+- [![Docs](https://img.shields.io/badge/Documentation-Visit-orange?logo=googlechrome&logoColor=white)](https://iqbal-api-docs.up.railway.app) [![Live API](https://img.shields.io/badge/Live-API-blue?logo=railway&logoColor=white)](https://iqbal-api.up.railway.app) [![GitHub](https://img.shields.io/badge/View%20on-GitHub-black?logo=github&logoColor=white)](https://github.com/TheMirza009/iqbal-api)
+
+#### ⌛ [TeamClock — Time Zone Manager](https://github.com/TheMirza009/teamclock)
 > Built out of real frustration: a productivity tool that helps distributed teams manage time zones, working hours, and availability at a glance.
 
 - **Tech:** Flutter · Dart · Firebase · GetX  
