@@ -70,7 +70,7 @@
 
 ### 🚀 Personal Projects
 
-#### 📝 [NotesApp — Chat-style Notes](https://play.google.com/store/apps/details?id=com.azdhaar.notesapp)
+#### <img src="https://themirza.vercel.app/notesapp.png" width="20" height="20" style="border-radius:4px"> &nbsp;[NotesApp — Chat-style Notes](https://play.google.com/store/apps/details?id=com.azdhaar.notesapp)
 > A revolutionary note-taking app with a self-chat engine for fluid, conversational notes.
 
 - **Tech:** Flutter · Dart · Isar · Riverpod · Material Design  
