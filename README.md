@@ -86,7 +86,7 @@
 #### ⌛ [TeamClock — Time Zone Manager](https://github.com/TheMirza009/teamclock)
 > Built out of real frustration: a productivity tool that helps distributed teams manage time zones, working hours, and availability at a glance.
 
-- **Tech:** Flutter · Dart · Firebase · GetX  
+- **Tech:** Flutter · Dart · Riverpod  
 - **Highlights:** 400+ time zones supported · Android · Open source  
 - [![GitHub](https://img.shields.io/badge/View%20on-GitHub-black?logo=github&logoColor=white)](https://github.com/TheMirza009/teamclock)
 
